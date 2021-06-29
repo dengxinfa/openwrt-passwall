@@ -4,7 +4,7 @@ config global
 	option socks_enabled '0'
 	option tcp_node 'nil'
 	option udp_node 'nil'
-	option dns_mode 'pdnsd'
+	option dns_mode 'nonuse'
 	option up_china_dns 'default'
 	option dns_forward '8.8.8.8'
 	option tcp_proxy_mode 'chnroute'
